@@ -1,0 +1,183 @@
+.sec1{
+    height: 650px;
+    
+    
+}
+
+
+
+
+.sec2{
+    padding-top: 200px;
+    margin-left: 100px;
+}
+
+.sec3{
+    font-size: 100px;
+    /*color: yellow;*/
+}
+
+/*.sec5{
+    color: yellow;
+}*/
+
+.sec4{
+    height: 750px;
+   /* background-color: gray;*/
+
+}
+
+.abt{
+    text-align: center;
+    
+}
+
+.abt1{
+    text-align: justify;
+}
+
+
+
+
+/*.abt2{
+
+}*/
+
+.abt3{
+    text-align: end;
+}
+
+.abt4{
+    text-align: start;
+}
+
+.sct{
+    height: 700px;
+    background-color: black;
+}
+
+.skl1{
+    text-align: center;
+}
+
+.pb{
+    margin-left: -12px;
+}
+
+.skl3{
+    margin-left: 100px;
+}
+
+.touch{
+    height: 600px;
+    background-color: antiquewhite;
+
+
+}
+
+.cnts{
+    height: 300px;
+}
+
+.up{
+    margin-left: 1450px;
+    margin-top: 40px;
+}
+
+
+@media(min-width: 400px) {
+    .sec3{
+        font-size: 70px;
+        
+    }
+
+    .sec1{
+        height: 1000px;
+    }
+
+    .n1{
+        width: 445px;
+    }
+
+    .sec5{
+        color: yellow;
+        
+    }
+
+    .sec2{
+        margin-left: 70px;
+    }
+
+    .sec4{
+        height: 1300px;
+    }
+
+    .skl3{
+        margin-left: -500px;
+        
+
+    }
+
+
+    
+}
+    
+
+   
+
+   
+
+
+  @media(min-width:750px){
+    .sec4{
+        height: 750px;
+    }
+
+    .n1{
+        width: 97%;
+    }
+
+    .sec3{
+        font-size: 100px;
+    }
+
+
+    .sec1{
+        height: 650px;
+        
+        
+    }
+
+    /*.sec1{
+       /* background-image: url(./images/WhatsApp_Image_2024-03-15_at_4.38.26_PM-transformed.png);*/
+        
+
+    }*/
+
+    .sec5{
+        color: yellow;
+        
+    }
+
+    .up{
+        margin-left: 10px;
+        margin-top: 40px;
+    }
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
